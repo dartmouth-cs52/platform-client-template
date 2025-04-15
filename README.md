@@ -1,13 +1,14 @@
 # Title
+TODO: short project description, some screenshots
 
-*description*
+## Setup
 
-[deployed url](http://url-if-deployed-here)
+TODO: how to get the project dev environment up and running, npm install etc
 
-## What Worked Well
+## Deployment
 
-## What Didn't
+TODO: add deployed link and short description of how you deployed
 
-## Extra Credit
+## Acknowledgments
 
-## Screenshots
+TODO: provide a list of sources used in project
