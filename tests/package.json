@@ -1,0 +1,12 @@
+{
+  "name": "lab4-platform-client-tests",
+  "version": "1.0.0",
+  "description": "Cypress end-to-end tests for the Lab 4 platform client assignment.",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}
